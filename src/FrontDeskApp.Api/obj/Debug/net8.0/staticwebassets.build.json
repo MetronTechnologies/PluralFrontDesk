@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nj0sqDr4GLUmSsqfX+xUZ1ZjzRg4zeQdC5IK0nkYGeQ=",
+  "Source": "FrontDeskApp.Api",
+  "BasePath": "_content/FrontDeskApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

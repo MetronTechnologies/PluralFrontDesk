@@ -1,0 +1,15 @@
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Application/bin/Debug/net8.0/FrontDeskApp.Application.deps.json
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Application/bin/Debug/net8.0/FrontDeskApp.Application.dll
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Application/bin/Debug/net8.0/FrontDeskApp.Application.pdb
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Application/bin/Debug/net8.0/FrontDeskApp.Domain.dll
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Application/bin/Debug/net8.0/FrontDeskApp.Domain.pdb
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Application/obj/Debug/net8.0/FrontDeskApp.Application.csproj.AssemblyReference.cache
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Application/obj/Debug/net8.0/FrontDeskApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Application/obj/Debug/net8.0/FrontDeskApp.Application.AssemblyInfoInputs.cache
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Application/obj/Debug/net8.0/FrontDeskApp.Application.AssemblyInfo.cs
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Application/obj/Debug/net8.0/FrontDeskApp.Application.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Application/obj/Debug/net8.0/FrontDes.274C0D52.Up2Date
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Application/obj/Debug/net8.0/FrontDeskApp.Application.dll
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Application/obj/Debug/net8.0/refint/FrontDeskApp.Application.dll
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Application/obj/Debug/net8.0/FrontDeskApp.Application.pdb
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Application/obj/Debug/net8.0/ref/FrontDeskApp.Application.dll

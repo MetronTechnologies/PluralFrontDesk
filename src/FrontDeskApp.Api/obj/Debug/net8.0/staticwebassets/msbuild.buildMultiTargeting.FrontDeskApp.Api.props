@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/FrontDeskApp.Api.props" />
+</Project>

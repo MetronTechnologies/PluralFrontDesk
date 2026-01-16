@@ -1,0 +1,11 @@
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Domain/bin/Debug/net8.0/FrontDeskApp.Domain.deps.json
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Domain/bin/Debug/net8.0/FrontDeskApp.Domain.dll
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Domain/bin/Debug/net8.0/FrontDeskApp.Domain.pdb
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Domain/obj/Debug/net8.0/FrontDeskApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Domain/obj/Debug/net8.0/FrontDeskApp.Domain.AssemblyInfoInputs.cache
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Domain/obj/Debug/net8.0/FrontDeskApp.Domain.AssemblyInfo.cs
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Domain/obj/Debug/net8.0/FrontDeskApp.Domain.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Domain/obj/Debug/net8.0/FrontDeskApp.Domain.dll
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Domain/obj/Debug/net8.0/refint/FrontDeskApp.Domain.dll
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Domain/obj/Debug/net8.0/FrontDeskApp.Domain.pdb
+/Users/mac/Documents/code/dotnet/plural/src/FrontDeskApp.Domain/obj/Debug/net8.0/ref/FrontDeskApp.Domain.dll
